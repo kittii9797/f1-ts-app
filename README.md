@@ -1,5 +1,4 @@
-# Minimal-React
-Minimal React + Redux starter kit for experiments.
+# Formula1-TS-React
 
 
 It has bare minimum to start development:
