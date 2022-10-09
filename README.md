@@ -29,4 +29,5 @@ Easily moveable elements, you can choice the racers move up and down.
 ## Things to improve :
 
 Overtake Fuction:
+
 ![Alt text](https://github.com/kittii9797/f1-ts-app/blob/main/overtake-race-function.gif)
