@@ -1,0 +1,170 @@
+[
+  {
+    "id": "1",
+    "code": "ALB",
+    "firstname": "Alexander",
+    "lastname": "Albon",
+    "country": "TH",
+    "team": "Williams"
+  },
+  {
+    "id": "2",
+    "code": "ALO",
+    "firstname": "Fernando",
+    "lastname": "Alonso",
+    "country": "ES",
+    "team": "Alpine"
+  },
+  {
+    "id": "3",
+    "code": "BOT",
+    "firstname": "Valtteri",
+    "lastname": "Bottas",
+    "country": "FI",
+    "team": "Alfa Romeo"
+  },
+  {
+    "id": "4",
+    "code": "GAS",
+    "firstname": "Pierre",
+    "lastname": "Gasly",
+    "country": "FR",
+    "team": "AlphaTauri"
+  },
+  {
+    "id": "5",
+    "code": "HAM",
+    "firstname": "Lewis",
+    "lastname": "Hamilton",
+    "country": "GB",
+    "team": "Mercedes"
+  },
+  {
+    "id": "6",
+    "code": "HUL",
+    "firstname": "Nico",
+    "lastname": "Hülkenberg",
+    "country": "DE",
+    "team": "Aston Martin"
+  },
+  {
+    "id": "7",
+    "code": "LAT",
+    "firstname": "Nicholas",
+    "lastname": "Latifi",
+    "country": "CA",
+    "team": "Williams"
+  },
+  {
+    "id": "8",
+    "code": "LEC",
+    "firstname": "Charles",
+    "lastname": "Leclerc",
+    "country": "MC",
+    "team": "Ferrari"
+  },
+  {
+    "id": "9",
+    "code": "MAG",
+    "firstname": "Kevin",
+    "lastname": "Magnussen",
+    "country": "DK",
+    "team": "Haas F1 Team"
+  },
+  {
+    "id": "10",
+    "code": "NOR",
+    "firstname": "Lando",
+    "lastname": "Norris",
+    "country": "GB",
+    "team": "McLaren"
+  },
+  {
+    "id": "11",
+    "code": "OCO",
+    "firstname": "Esteban",
+    "lastname": "Ocon",
+    "country": "FR",
+    "team": "Alpine"
+  },
+  {
+    "id": "12",
+    "code": "PER",
+    "firstname": "Sergio",
+    "lastname": "Pérez",
+    "country": "MX",
+    "team": "Red Bull Racing"
+  },
+  {
+    "id": "13",
+    "code": "RIC",
+    "firstname": "Daniel",
+    "lastname": "Ricciardo",
+    "country": "AU",
+    "team": "McLaren"
+  },
+  {
+    "id": "14",
+    "code": "RUS",
+    "firstname": "George",
+    "lastname": "Russell",
+    "country": "GB",
+    "team": "Mercedes"
+  },
+  {
+    "id": "15",
+    "code": "SAI",
+    "firstname": "Carlos",
+    "lastname": "Sainz",
+    "country": "ES",
+    "team": "Ferrari"
+  },
+  {
+    "id": "16",
+    "code": "MSC",
+    "firstname": "Mick",
+    "lastname": "Schumacher",
+    "country": "DE",
+    "team": "Haas F1 Team"
+  },
+  {
+    "id": "17",
+    "code": "STR",
+    "firstname": "Lance",
+    "lastname": "Stroll",
+    "country": "CA",
+    "team": "Aston Martin"
+  },
+  {
+    "id": "18",
+    "code": "TSU",
+    "firstname": "Yuki",
+    "lastname": "Tsunoda",
+    "country": "JP",
+    "team": "AlphaTauri"
+  },
+  {
+    "id": "19",
+    "code": "VER",
+    "firstname": "Max",
+    "lastname": "Verstappen",
+    "country": "NL",
+    "team": "Red Bull Racing"
+  },
+  {
+    "id": "20",
+    "code": "VET",
+    "firstname": "Sebastian",
+    "lastname": "Vettel",
+    "country": "DE",
+    "team": "Aston Martin"
+  },
+  {
+    "id": "21",
+    "code": "ZHO",
+    "firstname": "Guanyu",
+    "lastname": "Zhou",
+    "country": "CN",
+    "team": "Alfa Romeo"
+  }
+]
